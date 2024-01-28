@@ -1,0 +1,11 @@
+[27-Jan-2024 19:34:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function have_post() in /Users/caseyrowlands/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php:3
+Stack trace:
+#0 /Users/caseyrowlands/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/caseyrowlands/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/caseyrow...')
+#2 /Users/caseyrowlands/Local Sites/fictional-university/app/public/index.php(17): require('/Users/caseyrow...')
+#3 {main}
+  thrown in /Users/caseyrowlands/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 3
+[27-Jan-2024 23:50:32 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/caseyrowlands/Local Sites/fictional-university/app/public/wp-includes/update.php on line 449
+[27-Jan-2024 23:50:32 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/caseyrowlands/Local Sites/fictional-university/app/public/wp-includes/update.php on line 730
+[28-Jan-2024 00:02:31 UTC] PHP Parse error:  syntax error, unexpected token "}" in /Users/caseyrowlands/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php on line 27
+[28-Jan-2024 01:22:36 UTC] PHP Warning:  Undefined variable $theChildren in /Users/caseyrowlands/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php on line 48
